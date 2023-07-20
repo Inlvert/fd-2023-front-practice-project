@@ -147,8 +147,7 @@ const Home = (props) => {
                     <i className="fas fa-check" />
                     <span>
                         We’ll walk you through exactly what you need to share about your project
-                        in order to get an awesome Name
-</span>
+                        in order to get an awesome </span>
                   </p>
                 </div>
                 <img src={`${CONSTANTS.STATIC_IMAGES_PATH}gif/1-compressed.gif`} alt="compressed" />
